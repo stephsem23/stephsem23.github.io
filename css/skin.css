@@ -1099,7 +1099,7 @@ body,
 }
 .header-background .v-align-middle > .button:not(.nav-icon),
 .header-background .dropdown > .button:not(.nav-icon){
-	background: #000;
+	background: #F5D860;
 	border-color: transparent;
 	color: #000;
 }
@@ -1109,9 +1109,9 @@ body,
 }
 .header-background .v-align-middle > .button:not(.nav-icon):hover,
 .header-background .dropdown > .button:not(.nav-icon):hover{
-	background-color: #F5D860;
+	background-color: #000;
 	border-color: transparent;
-	color: #000;
+	color: #F5D860;
 }
 .header-background .navigation .nav-icon{
 	color: #999;
@@ -1165,15 +1165,15 @@ body,
 	}
 	.header .v-align-middle > .button:not(.nav-icon),
 	.header .dropdown > .button:not(.nav-icon){
-		background: #000;
+		background: #F5D860;
 		border-color: transparent;
 		color: #000;
 	}
 	.header .v-align-middle > .button:not(.nav-icon):hover,
 	.header .dropdown > .button:not(.nav-icon):hover{
-		background-color: #F5D860;
+		background-color: #000;
 		border-color: transparent;
-		color: #000;
+		color: #F5D860;
 	}
 	.header .navigation .nav-icon{
 		color: #333;
