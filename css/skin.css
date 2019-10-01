@@ -617,7 +617,7 @@ body,
 .header-compact .header-inner .navigation > ul > li,
 .header-compact .header-inner .navigation > ul > li > a:not(.button),
 .header-compact .header-inner .dropdown > .nav-icon{
-	height: 7rem;
+	height: 9rem;
 	line-height: 7rem;
 }
 
@@ -706,7 +706,7 @@ body,
 
 /* Initial Logo Width */
 .header .logo{
-	width: 9rem;
+	width: 8rem;
 }
 
 /* Compacted Header Logo Width */
@@ -1305,7 +1305,7 @@ body,
 }
 .one-page-nav .side-navigation > ul > li > a{
 	padding: 0 4rem;
-	font-size: 3rem;
+	font-size: 2rem;
 }
 
 /* Side Nav Sub Menu Initial Colors & Padding */
